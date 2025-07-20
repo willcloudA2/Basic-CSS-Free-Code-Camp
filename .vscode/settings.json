@@ -1,0 +1,5 @@
+{
+    "java.edit.smartSemicolonDetection.enabled": false,
+    "scss.completion.completePropertyWithSemicolon": true,
+    "css.completion.completePropertyWithSemicolon": true
+}
